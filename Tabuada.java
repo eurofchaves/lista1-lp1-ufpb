@@ -1,9 +1,7 @@
-/** Exercício tabuada – classe
+/** Exercício 1 – Tabuada
     * Aluno: Euro da Cunha Chaves Filho – Matricula: 20220054786 
     * Aluno: Fernando d’Ávila L.B.C. Filho – Matricula: 20220054820
     */
-
-
 import java.util.Scanner;
  
 public class Tabuada {

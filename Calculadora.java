@@ -1,4 +1,4 @@
-/** Exercício calculadora – classe
+/** Exercício 6 – Calculadora
     * Aluno: Euro da Cunha Chaves Filho – Matricula: 20220054786 
     * Aluno: Fernando d’Ávila L.B.C. Filho – Matricula: 20220054820
     */
